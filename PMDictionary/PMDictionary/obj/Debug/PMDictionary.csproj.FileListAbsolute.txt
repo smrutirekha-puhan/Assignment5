@@ -1,0 +1,6 @@
+C:\Users\SMRUTI\source\repos\PMDictionary\PMDictionary\bin\Debug\PMDictionary.exe.config
+C:\Users\SMRUTI\source\repos\PMDictionary\PMDictionary\bin\Debug\PMDictionary.exe
+C:\Users\SMRUTI\source\repos\PMDictionary\PMDictionary\bin\Debug\PMDictionary.pdb
+C:\Users\SMRUTI\source\repos\PMDictionary\PMDictionary\obj\Debug\PMDictionary.csprojAssemblyReference.cache
+C:\Users\SMRUTI\source\repos\PMDictionary\PMDictionary\obj\Debug\PMDictionary.exe
+C:\Users\SMRUTI\source\repos\PMDictionary\PMDictionary\obj\Debug\PMDictionary.pdb
